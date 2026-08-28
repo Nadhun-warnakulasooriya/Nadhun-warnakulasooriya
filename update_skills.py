@@ -1,13 +1,13 @@
 import re
 
-# Define skill percentages (update manually or from external data)
+# Updated skill percentages combining Automation, C++, and AI
 skills = {
-    "Python": 85,
-    "Arduino": 75,
-    "HTML/CSS": 70,
-    "OpenCV": 70,
-    "MATLAB": 50,
-    "Circuit Analysis": 60
+    "PLC_Programming": 85,
+    "C++": 85,
+    "Python": 80,
+    "AutoCAD": 80,
+    "OpenCV": 75,
+    "Arduino": 75
 }
 
 # Read README.md
@@ -24,4 +24,4 @@ for skill, percent in skills.items():
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(content)
 
-print("README.md skill badges updated!")
+print("README.md multi-disciplinary engineering skill badges updated!")
