@@ -5,7 +5,7 @@
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=wwwnadhun0270-maker&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nadhun-warnakulasooriya&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
@@ -86,17 +86,17 @@ I am an **Electronics & Telecommunication Engineering** student based in Sri Lan
 ## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/wwwnadhun0270-maker">
-    <img src="https://github-readme-stats.vercel.app/api?username=wwwnadhun0270-maker&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" alt="My Github Stats" />
+  <a href="https://github.com/Nadhun-warnakulasooriya">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nadhun-warnakulasooriya&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" alt="My Github Stats" />
   </a>
-  <a href="https://github.com/wwwnadhun0270-maker">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wwwnadhun0270-maker&theme=tokyonight&hide_border=true&cache_bust=1" alt="My GitHub Streak" />
+  <a href="https://github.com/Nadhun-warnakulasooriya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadhun-warnakulasooriya&theme=tokyonight&hide_border=true&cache_bust=1" alt="My GitHub Streak" />
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/wwwnadhun0270-maker">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwnadhun0270-maker&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_bust=1" alt="Top Langs" />
+  <a href="https://github.com/Nadhun-warnakulasooriya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nadhun-warnakulasooriya&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_bust=1" alt="Top Langs" />
   </a>
 </div>
 
@@ -106,9 +106,9 @@ I am an **Electronics & Telecommunication Engineering** student based in Sri Lan
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wwwnadhun0270-maker/wwwnadhun0270-maker/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wwwnadhun0270-maker/wwwnadhun0270-maker/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wwwnadhun0270-maker/wwwnadhun0270-maker/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadhun-warnakulasooriya/Nadhun-warnakulasooriya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nadhun-warnakulasooriya/Nadhun-warnakulasooriya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nadhun-warnakulasooriya/Nadhun-warnakulasooriya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
